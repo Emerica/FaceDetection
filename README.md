@@ -1,8 +1,7 @@
 FaceDetect
 --------------------------------------------------------------------
-This is a very simple set of unfinished python scripts. Based on the example provided at http://fideloper.com/facial-detection
-Created late on a Satuday night to get something done, and is not meant for you to use in a production environment as is.
-Nothing is verified etc. Python is not my primary pleasure, so feel free to improve.
+This is a very simple set of unfinished python scripts. Based on the example provided at http://fideloper.com/facial-detection . 
+Created late on a Satuday night to get something done, and is not meant for you to use in a production environment as is. Nothing is verified etc Python is not my primary pleasure, so feel free to improve.
 --------------------------------------------------------------------
 
 sudo apt-get update
